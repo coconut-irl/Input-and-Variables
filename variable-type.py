@@ -13,7 +13,3 @@ print()
 print("text is =", text)
 print("text is a ", type(text))
 print("text * 2 =", text * 2)
-
-
-
-
